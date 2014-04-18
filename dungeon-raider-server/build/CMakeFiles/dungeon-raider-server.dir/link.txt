@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/dungeon-raider-server.dir/main.o  -o dungeon-raider-server -rdynamic 
